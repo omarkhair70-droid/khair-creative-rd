@@ -16,3 +16,7 @@ All site assets are in the repository root; no build step is needed. For a Verce
 Historical works are credited to Omar Khair individually. ATHR comparisons are proposals, not claims of built renovations. Review third-party photographs and venue permissions before commercial promotion.
 
 Vercel's Hobby plan is restricted to personal/non-commercial use under its June 2026 Terms, even though deployment is technically possible. The publishing account holder decides how to proceed.
+
+## Personal visual reference (living, not a project style rule)
+
+[Personal visual taste canon (21 Nov 2026)](VISUAL_TASTE_CANON_2026-11-21.md) — confirmed by Omar on 21 November 2026. Research context only; every project still needs its own evidence, audience, creative decisions and rights checks.
